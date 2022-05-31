@@ -29,3 +29,4 @@ let avg = (R1 + R2 + R3 + R4 + R5)/5;
 
 console.log("The Sum of All 5 Randome number is: " + sum);
 console.log("The Average of All 5 Randome number is: " + avg);
+ 
